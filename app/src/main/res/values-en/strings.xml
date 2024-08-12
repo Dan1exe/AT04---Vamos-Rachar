@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPLIT BILL</string>
+    <string name="rachador">SPLIT BILL</string>
+    <string name="digite_o_valor">Enter the value</string>
+    <string name="numero_de_pessoas">Number of people</string>
+    <string name="r_0_00">$ 0,00</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+<!--Tema Claro-->
+    <color name="azul">#397699</color>
+    <color name="laranja">#F0B86E</color>
+    <color name="cinza">#736E67</color>
+    <color name="bege">#B09878</color>
+
+    <!--Tema Escuro-->
+    <color name="verde">#5D8C60</color>
+    <color name="verdeescuro">#434A33</color>
+</resources>

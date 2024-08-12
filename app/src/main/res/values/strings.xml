@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RACHADOR</string>
+    <string name="rachador">RACHADOR</string>
+    <string name="digite_o_valor">Digite o valor</string>
+    <string name="numero_de_pessoas">Numero de pessoas</string>
+    <string name="r_0_00">R$ 0,00</string>
+</resources>
